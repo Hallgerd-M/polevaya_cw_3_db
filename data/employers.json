@@ -1,0 +1,132 @@
+[
+  {
+    'id': '1942330',
+    'name': 'Пятёрочка',
+    'url': 'https://api.hh.ru/employers/1942330',
+    'alternate_url': 'https://hh.ru/employer/1942330',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1227385.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6529982.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6529981.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+    'open_vacancies': 52671
+  },
+  {
+    'id': '49357',
+    'name': 'МАГНИТ, Розничная сеть',
+    'url': 'https://api.hh.ru/employers/49357',
+    'alternate_url': 'https://hh.ru/employer/49357',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1261115.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6664787.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6664786.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=49357',
+    'open_vacancies': 31630
+  },
+  {
+    'id': '2180',
+    'name': 'Ozon',
+    'url': 'https://api.hh.ru/employers/2180',
+    'alternate_url': 'https://hh.ru/employer/2180',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+    'open_vacancies': 18600
+  },
+  {
+    'id': '78638',
+    'name': 'Т-Банк',
+    'url': 'https://api.hh.ru/employers/78638',
+    'alternate_url': 'https://hh.ru/employer/78638',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1285309.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/6761535.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/6761534.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+    'open_vacancies': 17032
+  },
+  {
+    'id': '9498120',
+    'name': 'Яндекс Команда для бизнеса',
+    'url': 'https://api.hh.ru/employers/9498120',
+    'alternate_url': 'https://hh.ru/employer/9498120',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1121425.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6106294.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6106293.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9498120',
+    'open_vacancies': 10943
+  },
+  {
+    'id': '2748',
+    'name': 'Ростелеком',
+    'url': 'https://api.hh.ru/employers/2748',
+    'alternate_url': 'https://hh.ru/employer/2748',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/592930.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/2812976.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/2812975.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2748',
+    'open_vacancies': 9633
+  },
+  {
+    'id': '2467115',
+    'name': 'Кастор',
+    'url': 'https://api.hh.ru/employers/2467115',
+    'alternate_url': 'https://hh.ru/employer/2467115',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/668142.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/3113701.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/3113700.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2467115',
+    'open_vacancies': 8673
+  },
+  {
+    'id': '9498112',
+    'name': 'Яндекс Крауд',
+    'url': 'https://api.hh.ru/employers/9498112',
+    'alternate_url': 'https://hh.ru/employer/9498112',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1256792.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6647499.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6647498.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9498112',
+    'open_vacancies': 8633
+  },
+  {
+    'id': '1648566',
+    'name': 'Российский Промышленный Сервис',
+    'url': 'https://api.hh.ru/employers/1648566',
+    'alternate_url': 'https://hh.ru/employer/1648566',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1023954.JPG',
+      '240': 'https://img.hhcdn.ru/employer-logo/5716585.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/5716584.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1648566',
+    'open_vacancies': 7821
+  },
+  {
+    'id': '3529',
+    'name': 'СБЕР',
+    'url': 'https://api.hh.ru/employers/3529',
+    'alternate_url': 'https://hh.ru/employer/3529',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1311252.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6865267.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6865266.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3529',
+    'open_vacancies': 6365
+  }
+]
